@@ -23,7 +23,7 @@
             <table border="0">
                 <thead>
                     <tr>
-                        <th>Please select an area you need help in </th>
+                        <th>Please select an area you need help in: </th>
                     </tr>
                 </thead>
                 <tbody>
