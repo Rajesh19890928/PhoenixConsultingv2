@@ -53,7 +53,7 @@
                 </tbody>
             </table>
             <br><br>
-            <a href="contactus.jsp" name="contactus"> Contact Us</a>
+            <!--<a href="contactus.jsp" name="contactus"> Contact Us</a>-->
             <%
             JavaClasses.ServerCategory server = new JavaClasses.ServerCategory();
             String servercategory = server.Server(request.getLocalAddr());
