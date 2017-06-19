@@ -146,7 +146,7 @@
             </activation>
             <properties>
                 <database>dev_db</database>
-                <databse_url>20.0.1.231</databse_url>
+                <databse_url>20.0.1.144</databse_url>
             </properties>
         </profile>
 
