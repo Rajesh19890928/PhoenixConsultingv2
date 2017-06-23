@@ -59,5 +59,14 @@
             String servercategory = server.Server(request.getLocalAddr());
             %>
             <div class="topcorner"><% out.print(servercategory); %></div>
+    <footer>
+        <center>
+            <table width="80%" border="0">
+                <tr>
+                    <td><a href="#">about us</a></td>
+                </tr>
+            </table>
+        </center>
+    </footer>
     </body>
 </html>
