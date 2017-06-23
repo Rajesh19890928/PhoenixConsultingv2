@@ -8,6 +8,11 @@ and open the template in the editor.
     Author     : raojha
 */
 
+html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    
 body {
     font-family: Verdana, Arial, sans-serif;
     font-size: smaller;
