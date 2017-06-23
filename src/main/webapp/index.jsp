@@ -11,7 +11,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title>Home Page - Phoenix</title>
     </head>
-    <body>
+    <body height="100%">
         <h1>Welcome to Phoenix Consulting</h1>
         <br>
         <%
