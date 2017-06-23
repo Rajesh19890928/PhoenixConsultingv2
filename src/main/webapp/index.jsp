@@ -60,7 +60,7 @@
             %>
             <div class="topcorner"><% out.print(servercategory); %></div>
             
-        <footer>
+        <div class="footer">
             <center>
                 <table width="80%" border="0">
                     <tr>
@@ -68,6 +68,6 @@
                     </tr>
                 </table>
             </center>
-        </footer>
+        </div>
     </body>
 </html>
