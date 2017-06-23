@@ -66,6 +66,7 @@
                     <tr>
                         <td><center><a href="#">about us</a></center></td>
                         <td><center><a href="#">tour</a></center></td>
+                        <td><center><a href="#">help</a></center></td>
                     </tr>
                 </table>
             </center>
