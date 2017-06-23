@@ -62,7 +62,7 @@
             
         <div class="footer">
             <center>
-                <table width="100%" border="0" padding="0px">
+                <table width="100%" height = "15px" border="0" padding="0px">
                     <tr>
                         <td><a href="#">about us</a></td>
                     </tr>
