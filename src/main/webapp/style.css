@@ -11,9 +11,9 @@ and open the template in the editor.
 body {
     font-family: Verdana, Arial, sans-serif;
     font-size: smaller;
-    padding: 50px;
     background-image: url("bg.jpg");
-    background-repeat: repeat-y;        
+    background-repeat: repeat-y;
+    padding:50px;
 }
 
 h1 {
@@ -140,3 +140,10 @@ input[type=submit] {
    font-weight: normal;
    text-decoration: none;
   }
+  
+.footer {
+    position: absolute;
+    bottom: 0;
+    height:15px;
+    width: 100%;
+}

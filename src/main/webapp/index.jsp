@@ -11,7 +11,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title>Home Page - Phoenix</title>
     </head>
-    <body>
+    <body height="100%">
         <h1>Welcome to Phoenix Consulting</h1>
         <br>
         <%
@@ -59,5 +59,15 @@
             String servercategory = server.Server(request.getLocalAddr());
             %>
             <div class="topcorner"><% out.print(servercategory); %></div>
+            
+        <div class="footer" width="100%">
+            <center>
+                <table width="100%" height = "15px" border="0" padding="0px">
+                    <tr>
+                        <td><a href="#">about us</a></td>
+                    </tr>
+                </table>
+            </center>
+        </div>
     </body>
 </html>
