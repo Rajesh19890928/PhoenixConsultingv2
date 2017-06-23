@@ -67,7 +67,14 @@
                         <td><center><a href="#">about us</a></center></td>
                         <td><center><a href="#">tour</a></center></td>
                         <td><center><a href="#">help</a></center></td>
-                        
+                        <td><center><a href="#">blog</a></center></td>
+                <td><center><a href="#">chat</a></center></td>
+                <td><center><a href="#">data</a></center></td>
+                <td><center><a href="#">legal</a></center></td>
+                <td><center><a href="#">privacy policy</a></center></td>
+                <td><center><a href="#">careers</a></center></td>
+                <td><center><a href="#">feedback</a></center></td>
+                <td><center><a href="contactus.jsp">contact us</a></center></td>
                     </tr>
                 </table>
             </center>
