@@ -65,6 +65,7 @@
                 <table width="100%" height = "15px" border="0" padding="0px">
                     <tr>
                         <td><a href="#">about us</a></td>
+                        <td><a href="#">tour</a></td>
                     </tr>
                 </table>
             </center>
