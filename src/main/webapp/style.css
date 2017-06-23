@@ -15,7 +15,7 @@ html{
 
 html,body{
   margin:0;
-  padding:0;
+  padding:50px;
 }
 
 body {
@@ -153,7 +153,6 @@ input[type=submit] {
 .footer {
     position: absolute;
     bottom: 0;
-    left: 0;
-    right: 0;
-    height:100px;
+    height:30px;
+    width: 100%;
 }
