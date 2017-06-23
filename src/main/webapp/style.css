@@ -8,21 +8,12 @@ and open the template in the editor.
     Author     : raojha
 */
 
-html{
-  position:relative; 
-  min-height: 100%;
-}
-
-html,body{
-  margin:0;
-  padding:50px;
-}
-
 body {
     font-family: Verdana, Arial, sans-serif;
     font-size: smaller;
     background-image: url("bg.jpg");
-    background-repeat: repeat-y;        
+    background-repeat: repeat-y;
+    padding:50px;
 }
 
 h1 {
