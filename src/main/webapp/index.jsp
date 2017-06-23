@@ -62,10 +62,10 @@
             
         <div class="footer" width="100%">
             <center>
-                <table width="100%" height = "15px" border="0" padding="0px">
+                <table class = "footertable">
                     <tr>
-                        <td><a href="#">about us</a></td>
-                        <td><a href="#">tour</a></td>
+                        <td><center><a href="#">about us</a></center></td>
+                        <td><center><a href="#">tour</a></center></td>
                     </tr>
                 </table>
             </center>
