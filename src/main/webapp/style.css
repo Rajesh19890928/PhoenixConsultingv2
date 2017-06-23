@@ -8,10 +8,19 @@ and open the template in the editor.
     Author     : raojha
 */
 
+html{
+  position:relative; 
+  min-height: 100%;
+}
+
+html,body{
+  margin:0;
+  padding:0;
+}
+
 body {
     font-family: Verdana, Arial, sans-serif;
     font-size: smaller;
-    padding: 50px;
     background-image: url("bg.jpg");
     background-repeat: repeat-y;        
 }
@@ -142,9 +151,9 @@ input[type=submit] {
   }
   
 .footer {
-    clear: both;
-    position: relative;
-    height: 60px;
+    position: absolute;
     bottom: 0;
-    width: 100%;
+    left: 0;
+    right: 0;
+    height:100px;
 }
